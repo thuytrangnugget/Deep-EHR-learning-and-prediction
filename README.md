@@ -8,6 +8,7 @@ Apply Attention-based model in Healthcare Representation Learning and Diagnosis 
 
 # Problems:
 In the last decade, hospital adoption of electronic health record (EHR) systems has surged, resulting in a massive increase in the amount of digital data recorded. EHR systems save information including as demographics, diagnoses, laboratory tests and results, medications, radiographic images, clinical notes, and more for each patient visit.
+
 While EHR adoption in hospitals and clinics has the potential to improve patient care by reducing mistakes, boosting efficiency, and enhancing treatment quality, several research have discovered secondary applications for clinical informatics. Medical concept extraction [4], [5], patient trajectory modeling, illness inference, clinical support systems, and other functions have all made use of the patient data included in EHR systems. As a result, it provides a rich data source for researchers.
 
 
