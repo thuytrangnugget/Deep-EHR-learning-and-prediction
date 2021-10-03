@@ -14,7 +14,9 @@ While EHR adoption in hospitals and clinics has the potential to improve patient
 # MOTIVATION
 There are 3 reasons why I choose this topic.
 _First_, I’m genuinely interested in the idea that computer algorithms can improve human condition. 
+
 _Second_, there is a TV series about lives in hospital called “Hospital Playlist” that evoke the sense of humanity in myself, making me take advantage of informatics knowledge for meaningful projects. 
+
 _Last but not least_, my life recently is filled with hope, humor, and happiness from a doctor who, despite being in the front line fighting against COVID-19, still radiate ultimate optimism, listen to my on-going problems and give good advices. Therefore, this project is my attempt to understand his field better.
 
 
